@@ -12,7 +12,7 @@
 ## About
 
 Author support service provides LaTeX style files and `*.tex` file templates designed for International Press journal
-[Communications in Number Theory and Physics (CNTP)](http://www.intlpress.com/CNTP/) articles.
+[Communications in Number Theory and Physics (CNTP)](http://www.intlpress.com/CNTP) articles.
 
 ## Package content
 
